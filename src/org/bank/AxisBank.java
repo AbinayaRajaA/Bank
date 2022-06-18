@@ -20,5 +20,6 @@ public void deposit() {
 	a.deposit(500000000);
 	a.fixed();
 	a.saving();
+	System.out.println("Abi");
 }
 }
